@@ -1,0 +1,11 @@
+tr,
+td,
+th,
+table {
+    border: 2px solid black;
+    padding: 2px;
+}
+
+.fa-solid{
+    cursor:pointer;
+}
